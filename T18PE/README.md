@@ -1,7 +1,7 @@
 Radar module evaluation kit
 TITAN series
 Start guide
-S-takaya Electronics Co., Ltd.
+Estacay Electronics Co., Ltd.
 No.ST219-0007-Q01(Rev1.6)
 1/11
 Contents
@@ -112,5 +112,5 @@ For T18, select the TTN number.
 ・Click the Connect button.
 ・Once communication with the module is established, the Connect button will change to a Disconnect button.
 The module's platform name and
-
-.....
+フィードバックを送信
+文字数制限は 5,000 文字です。さらに翻訳するには、矢印を使用してください。
