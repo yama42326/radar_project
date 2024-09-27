@@ -112,5 +112,3 @@ For T18, select the TTN number.
 ・Click the Connect button.
 ・Once communication with the module is established, the Connect button will change to a Disconnect button.
 The module's platform name and
-フィードバックを送信
-文字数制限は 5,000 文字です。さらに翻訳するには、矢印を使用してください。
